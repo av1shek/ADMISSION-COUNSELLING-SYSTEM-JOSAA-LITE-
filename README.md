@@ -12,3 +12,12 @@ There are 13 entities persent in this database design, and it is normalised upto
 
 ### Relational Schema
 ![plot](./Relational_schema.png)
+
+<hr/>
+
+### Team Members:
+<ul>
+  <li><a href="https://github.com/av1shek">Abhishek Pratap Singh</a></li>
+  <li><a href="https://github.com/suffisme/">Mohd Sufiyan Ansari</a></li>
+  <li><a href="https://github.com/raghav076">Raghav Mukati</a></li>
+</ul>
